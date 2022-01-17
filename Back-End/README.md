@@ -12,4 +12,5 @@
  <br/> <br/>The extra challenge I chose was to be able to filter by different things. <br/>
 Here, my filter contains the option to check all Items, check items that are out of stock, and check items that are in stock.
 <br/>
+<br/>
 Happy testing :D
