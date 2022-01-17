@@ -6,7 +6,7 @@
 3.Navigate in the folders, and go to server.js, then press F8 to run the server<br/>
 4.In the browser, search for localhost:8765<br/>
 5.Some item in the inventory should already show up. From this page, you can modify and delete different items in the inventory.<br/>
-6.Click on the link, and it will bring you to another page where you can add items to the inventory.
+6.Click on the link, and it will bring you to another page where you can add items to the inventory. <br/>
 
 
 The extra challenge I chose was to be able to filter by different things. <br/>
