@@ -1,4 +1,4 @@
-<h1>Bakc-End challenge by Charles-Etienne Gauthier</h1>
+<h1>Back-End challenge by Charles-Etienne Gauthier</h1>
 <br/>
 <h3>Intructions</h3>
 1.Extract the zip file<br/>
